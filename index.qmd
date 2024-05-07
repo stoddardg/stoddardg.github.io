@@ -15,6 +15,8 @@ I'm passionate about using data science to help governments better understand an
 
 I'm also interested in combining the tools of machine learning with econometrics to estimate personalized treatment effects. The Education Lab is currently conducting a [large-scale evaluation of high-dosage tutoring](https://educationlab.uchicago.edu/projects/personalized-learning-initiative/) in K-12 education and I'm leading the effort to apply heterogeneous treatment effect estimators to learn what works for who. 
 
+Feel free to contact me: gstoddard [at] uchicago.edu
+
 ## Recent Papers
 
 Stoddard, Fitzpatrick, Ludwig. Predicting Police Misconduct. *Forthcoming*
