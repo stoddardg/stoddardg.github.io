@@ -1,7 +1,7 @@
 ---
 title: "Greg Stoddard"
 about:
-  template: trestles
+  template: solana
   image: stoddard_headshot_small.jpeg
   image-shape: round
   links:
@@ -9,7 +9,7 @@ about:
       href: https://www.linkedin.com/in/greg-stoddard-21b776165/
 ---
 
-Hi, I'm Greg. I'm a senior research director at the [University of Chicago Crime Lab and Education Lab](https://crimelab.uchicago.edu/) where I'm fortunate to manage a team of ~10 data scientists on applying the tools of data science to important problems in public policy. 
+I'm a senior research director at the [University of Chicago Crime Lab and Education Lab](https://crimelab.uchicago.edu/) where I'm fortunate to manage a team of ~10 data scientists on applying the tools of data science to important problems in public policy. 
 
 I'm passionate about using data science to help governments better understand and manage the problems that they face on a day-to-day basis. To that end, I led the Crime Lab's effort to use data to better [predict police misconduct](https://crimelab.uchicago.edu/projects/officer-support-system-oss/) (paper forthcoming) for the purposes of routing helpful interventions to officers before an adverse event causes harm to the public, careers, and trust in policing. I also advised on data analysis for the [Policing Project's](https://www.policingproject.org/) [Reimaging Public Safety](https://www.safetyreimagined.org/) project
 
