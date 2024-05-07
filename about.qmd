@@ -1,0 +1,41 @@
+---
+title: "Greg Stoddard"
+about:
+  template: trestles
+  image: stoddard_headshot_small.jpeg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Hi, I'm Greg. I'm a senior research director at the [University of Chicago Crime Lab and Education Lab](https://crimelab.uchicago.edu/) where I'm fortunate to manage a team of ~10 data scientists on applying the tools of data science to important problems in public policy. 
+
+I'm passionate about using data science to help governments better understand and manage the problems that they face on a day-to-day basis. To that end, I led the Crime Lab's effort to use data to better [predict police misconduct](https://crimelab.uchicago.edu/projects/officer-support-system-oss/) (paper forthcoming) for the purposes of routing helpful interventions to officers before an adverse event causes harm to the public, careers, and trust in policing. I also advised on data analysis for the [Policing Project's](https://www.policingproject.org/) [Reimaging Public Safety](https://www.safetyreimagined.org/) project
+
+I'm also interested in combining the tools of machine learning with econometrics to estimate personalized treatment effects. The Education Lab is currently conducting a [large-scale evaluation of high-dosage tutoring](https://educationlab.uchicago.edu/projects/personalized-learning-initiative/) in K-12 education and I'm leading the effort to apply heterogeneous treatment effect estimators to learn what works for who. 
+
+## Recent Papers
+
+Stoddard, Fitzpatrick, Ludwig. Predicting Police Misconduct. *Forthcoming*
+
+
+Guryan, J., Ludwig, J., Bhatt, M. P., Cook, P. J., Davis, J. M., Dodge, K., ... & Stoddard, G. (2023). [Not too late: Improving academic outcomes among adolescents](https://www.aeaweb.org/articles?id=10.1257/aer.20210434). American Economic Review, 113(3), 738-765.
+
+
+## Education
+
+Northwestern University |
+PhD in Computer Science | Sept 2010 - June 2016
+
+Binghamton University | 
+BS Computer Science, BA Mathematics | Sept 2006 - June 2010
+
+## Experience
+
+University of Chicago Crime Lab and Education Lab | Senior Research Director | August 2019 - present
+
+University of Chicago Crime Lab and Education Lab | Research Director | August 2016 - August 2019
