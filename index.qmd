@@ -3,13 +3,10 @@ title: "Greg Stoddard"
 about:
   template: trestles
   image: stoddard_headshot_small.jpeg
+  image-shape: round
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com
+    - icon: linkedin
+      href: https://www.linkedin.com/in/greg-stoddard-21b776165/
 ---
 
 Hi, I'm Greg. I'm a senior research director at the [University of Chicago Crime Lab and Education Lab](https://crimelab.uchicago.edu/) where I'm fortunate to manage a team of ~10 data scientists on applying the tools of data science to important problems in public policy. 
