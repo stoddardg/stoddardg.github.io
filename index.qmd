@@ -15,7 +15,7 @@ I'm passionate about using data science to help governments better understand an
 
 From 2016-2019, I directed Crime Lab's collaboration with New York City to update the [pretrial release assessment](https://www.nycja.org/release-assessment) used as a decision-aid by judges in nearly 100,000 arraignments each year. This work, which was a part of Mayor de Blasio's [Close Rikers plan](https://rikers.cityofnewyork.us/), resulted in a decison-aid that is more accurate, recommends pretrial release more often, and reduces the racial disparities observed in the recommendations of the prior assessment. 
 
-I'm also interested in combining the tools of machine learning with econometrics to estimate personalized treatment effects. The Education Lab is currently conducting a [large-scale evaluation of high-dosage tutoring](https://educationlab.uchicago.edu/projects/personalized-learning-initiative/) in K-12 education and I'm leading the effort to apply heterogeneous treatment effect estimators to learn what works for who. 
+I'm also interested in combining the tools of machine learning and econometrics to estimate personalized treatment effects. The Education Lab is currently conducting a [large-scale evaluation of high-dosage tutoring](https://educationlab.uchicago.edu/projects/personalized-learning-initiative/) in K-12 education and I'm leading the effort to apply heterogeneous treatment effect estimators to learn what works for who. 
 
 Feel free to contact me: gstoddard [at] uchicago.edu
 
