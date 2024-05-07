@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "stoddardg.github.io",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Greg Stoddard",
+    "section": "",
+    "text": "Hi, I’m Greg. I’m a senior research director at the University of Chicago Crime Lab and Education Lab where I’m fortunate to manage a team of ~10 data scientists on applying the tools of data science to important problems in public policy.\nI’m passionate about using data science to help governments better understand and manage the problems that they face on a day-to-day basis. To that end, I led the Crime Lab’s effort to use data to better predict police misconduct (paper forthcoming) for the purposes of routing helpful interventions to officers before an adverse event causes harm to the public, careers, and trust in policing. I also advised on data analysis for the Policing Project’s Reimaging Public Safety project\nI’m also interested in combining the tools of machine learning with econometrics to estimate personalized treatment effects. The Education Lab is currently conducting a large-scale evaluation of high-dosage tutoring in K-12 education and I’m leading the effort to apply heterogeneous treatment effect estimators to learn what works for who."
+  },
+  {
+    "objectID": "about.html#recent-papers",
+    "href": "about.html#recent-papers",
+    "title": "Greg Stoddard",
+    "section": "Recent Papers",
+    "text": "Recent Papers\nStoddard, Fitzpatrick, Ludwig. Predicting Police Misconduct. Forthcoming\nGuryan, J., Ludwig, J., Bhatt, M. P., Cook, P. J., Davis, J. M., Dodge, K., … & Stoddard, G. (2023). Not too late: Improving academic outcomes among adolescents. American Economic Review, 113(3), 738-765."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Greg Stoddard",
+    "section": "Education",
+    "text": "Education\nNorthwestern University | PhD in Computer Science | Sept 2010 - June 2016\nBinghamton University | BS Computer Science, BA Mathematics | Sept 2006 - June 2010"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Greg Stoddard",
+    "section": "Experience",
+    "text": "Experience\nUniversity of Chicago Crime Lab and Education Lab | Senior Research Director | August 2019 - present\nUniversity of Chicago Crime Lab and Education Lab | Research Director | August 2016 - August 2019"
+  }
+]
